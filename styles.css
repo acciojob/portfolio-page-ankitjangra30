@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+
+body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        #skills {
+            margin-top: 20px;
+        }
+        #projects {
+            margin-top: 20px;
+        }
